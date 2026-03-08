@@ -197,5 +197,6 @@ spotify-recommender/
 ##  Author
 
 **Abhiram Vedipala**  
-Computer Science Student @ Florida International University  
+Data science and AI  Student @ Florida International University  
 [GitHub](https://github.com/abhiramvedipala) · [LinkedIn](https://linkedin.com/in/abhiramvedipala)
+
